@@ -10,9 +10,6 @@
   "repository": {
     "type": "git"
   },
-  "bugs": {
-    "url": ""
-  },
   "licenses": [
     {
       "type": "MIT",
@@ -26,7 +23,7 @@
     "test": "grunt test"
   },
   "devDependencies": {
-    "cleandocs": "0.0.1",
+    "cleandocs": "git+ssh://eng.protectwise.net/pw/git/niels/cleandocs",
     "grunt-contrib-jshint": "~0.6.0",
     "grunt-contrib-clean": "~0.4.0",
     "grunt-contrib-nodeunit": "~0.2.0",
