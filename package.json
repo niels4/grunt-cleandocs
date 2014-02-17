@@ -1,0 +1,41 @@
+{
+  "name": "grunt-cleandocs",
+  "description": "Merge seperate documentation and source files to create literate coffee style documentation.",
+  "version": "0.0.1",
+  "homepage": "",
+  "author": {
+    "name": "Niels Nielsen",
+    "email": "niels@protectwise.com"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "cleandocs": "0.0.1",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt": "~0.4.2"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
