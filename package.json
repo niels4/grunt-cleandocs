@@ -9,6 +9,7 @@
   },
   "repository": {
     "type": "git"
+    "url": "https://github.com/niels4/grunt-cleandocs"
   },
   "licenses": [
     {
@@ -23,7 +24,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "cleandocs": "git+ssh://eng.protectwise.net/pw/git/niels/cleandocs"
+    "cleandocs": "~0.0.1"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.0",
@@ -35,6 +36,6 @@
     "grunt": "~0.4.2"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin cleandocs documenation literate coffeescript"
   ]
 }
