@@ -1,7 +1,7 @@
 {
   "name": "grunt-cleandocs",
   "description": "Merge seperate documentation and source files to create literate coffee style documentation.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "homepage": "",
   "author": {
     "name": "Niels Nielsen",
@@ -24,7 +24,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "cleandocs": "~0.0.3"
+    "cleandocs": "~0.0.4"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.0",
