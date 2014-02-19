@@ -9,6 +9,7 @@
 var cleandocs = require('cleandocs');
 
 var defaultOptions = {
+  "docco" : true,
   "docSuffix": ".md",
   "docTagStart": "#*c:",
   "docTagEnd": "*",
