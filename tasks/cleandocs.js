@@ -16,7 +16,7 @@ var defaultOptions = {
   "srcSuffix": ".coffee",
   "srcTagStart": "#*c:",
   "srcTagEnd": "*",
-  "outputSuffix": ".litcoffee",
+  "outputSuffix": ".coffee.md",
   "defaultTagOrder": ["untagged", "description"]
 };
 
